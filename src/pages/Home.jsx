@@ -126,7 +126,7 @@ const Home = () => {
                   <div className="detail-box">
                     <h1>
                       We Make Visa <br/>
-                      Process Faster
+                      Process Faster Ram and sai
                     </h1>
                     <p>
                       Lorem ipsum dolor sit amet, consectetur adipiscing elit,
@@ -148,7 +148,7 @@ const Home = () => {
                   <div className="detail-box">
                     <h1>
                       We Make Visa <br/>
-                      Process Faster
+                      Process Faster Ram and sai
                     </h1>
                     <p>
                       Lorem ipsum dolor sit amet, consectetur adipiscing elit,
