@@ -104,7 +104,7 @@ const Home = () => {
                     
                     <h1>
                       We Make Visa <br/>
-                      Process Faster Ram and sai
+                      Process Faster Ram and saibalaji
                     </h1>
                     <p>
                       At GREEN VISAS, we are committed to providing exceptional visa processing services, ensuring that our clients have a smooth and enjoyable travel experience.
@@ -126,7 +126,7 @@ const Home = () => {
                   <div className="detail-box">
                     <h1>
                       We Make Visa <br/>
-                      Process Faster
+                      Process Faster Ram and saibalaji
                     </h1>
                     <p>
                       Lorem ipsum dolor sit amet, consectetur adipiscing elit,
@@ -148,7 +148,7 @@ const Home = () => {
                   <div className="detail-box">
                     <h1>
                       We Make Visa <br/>
-                      Process Faster
+                      Process Faster Ram and saibalaji
                     </h1>
                     <p>
                       Lorem ipsum dolor sit amet, consectetur adipiscing elit,
